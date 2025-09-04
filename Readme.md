@@ -16,7 +16,7 @@ The project also supports **sentence building**, **history tracking**, and loadi
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Language**: C  
 - **Concepts Used**:  
   - Trie Data Structure  
